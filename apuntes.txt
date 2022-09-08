@@ -1,0 +1,1 @@
+Los componentes son opper camel case y se ponen en SRC
